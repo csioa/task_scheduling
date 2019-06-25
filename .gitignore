@@ -8,3 +8,5 @@ airflow.db
 airflow.cfg
 logs
 unittests.cfg
+
+*.pyc
