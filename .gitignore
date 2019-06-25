@@ -1,3 +1,10 @@
 luigienv
 pidfile
 log_dir
+
+airflowenv
+airflow-scheduler*
+airflow.db
+airflow.cfg
+logs
+unittests.cfg
